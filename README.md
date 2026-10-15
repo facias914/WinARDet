@@ -7,7 +7,7 @@
 
 [![ModelScope](https://img.shields.io/badge/ModelScope-624AFF.svg?logo=modelscope)](https://modelscope.cn/models/facias914/WinAR_Model)&#160;
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=000)](https://huggingface.co/facias/WinARDet)&#160;
-[![Paper](https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv)](#)
+[![Paper](https://img.shields.io/badge/Paper-b5212f.svg?logo=arxiv)](https://arxiv.org/abs/2610.19419)
 
 </div>
 
@@ -141,10 +141,10 @@ excellent open-source work.
 If you find WinARDet useful, please consider citing our paper:
 
 ```bibtex
-@article{winardet2027,
+@article{winardet2026,
   title   = {WinARDet: Compressed Window Auto-Regression for Long-Horizon Vision-Language Grounding},
-  author  = {TBD},
-  journal = {arXiv preprint arXiv:TBD},
-  year    = {2027}
+  author  = {Chenxu Wang, Hangyi Kuang, Bowen Yin, Yuxuan Li, Quansheng Zeng, Yang Zhang, Xu Guo, Xiang Li, Qibin Hou},
+  journal = {arXiv preprint arXiv:2610.19419},
+  year    = {2026}
 }
 ```
